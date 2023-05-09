@@ -1,0 +1,17 @@
+# virtual environment
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.log
+*.pot
+*.pyc
+
+####
+# Unit Test & 
+# Coverage Reports
+####
+htmlcov/
+.coverage
+.pytest_cache
